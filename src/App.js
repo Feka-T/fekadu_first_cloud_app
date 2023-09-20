@@ -5,11 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>ይህ የፍቃዱ የመጀመሪያው የሪያክት አፕሎድ ሙከራ የተደረገ ዌብሳይት ነው</h1>
-
         <img src={logo} className="App-logo" alt="logo" />
 
-        <h1>This is Fekadu deployment testing Online WebSite</h1>
+        <h1>This is Fekadu deployed test Online Cloud WebSite</h1>
+        <h1>ይህ የፍቃዱ ታደሰ የሪያክት አፕሎድ የተደረገ የመጀመሪያው ዌብሳይት ነው</h1>
       </header>
     </div>
   );
