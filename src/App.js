@@ -9,11 +9,17 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>
-          This is the first React Website Project uploded and deployed online by
-          Fekadu Tadesse.
+          <strong>
+            This is the first React Website Project uploded and deployed online
+            by Fekadu Tadesse.
+          </strong>
         </p>
 
-        <p>ይህ በፍቃዱ ታደሰ የሪያክት ፕሮጀክት አፕሎድ የተደረገ የመጀመሪያው የሙከራ ኦንላይን ዌብሳይት ነው።</p>
+        <p>
+          <strong>
+            ይህ በፍቃዱ ታደሰ የሪያክት ፕሮጀክት አፕሎድ የተደረገ የመጀመሪያው የሙከራ ኦንላይን ዌብሳይት ነው።
+          </strong>
+        </p>
       </header>
     </div>
   );
