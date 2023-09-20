@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import { React } from "react";
 
 function App() {
   return (
@@ -7,8 +8,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
-        <h1>This is Fekadu deployed test Online Cloud WebSite</h1>
-        <h1>ይህ የፍቃዱ ታደሰ የሪያክት አፕሎድ የተደረገ የመጀመሪያው ዌብሳይት ነው</h1>
+        <p>
+          This is the first React Website Project uploded and deployed online by
+          Fekadu Tadesse.
+        </p>
+
+        <p>ይህ በፍቃዱ ታደሰ የሪያክት ፕሮጀክት አፕሎድ የተደረገ የመጀመሪያው የሙከራ ኦንላይን ዌብሳይት ነው።</p>
       </header>
     </div>
   );
